@@ -27,7 +27,7 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 
-const API_URL = "http://localhost:5555/api/categories/admin/";
+const API_URL = "https://kripto-backend.onrender.com/api/categories/admin/";
 
 const CategoryManager = () => {
   const [categories, setCategories] = useState([]);
