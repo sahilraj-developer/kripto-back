@@ -1,4 +1,4 @@
-# Kripto Shop – MERN E-commerce App
+# MERN E-commerce App
 
 ## 📦 Tech Stack
 
