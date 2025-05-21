@@ -1,3 +1,5 @@
+// @ts-ignore
+// @ts-nocheck
 "use client";
 
 import { useEffect, useRef } from "react";

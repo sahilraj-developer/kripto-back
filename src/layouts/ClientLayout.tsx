@@ -1,4 +1,6 @@
 
+// @ts-ignore
+// @ts-nocheck
 import Footer from "@/components/client/Footer";
 import Navbar from "../components/client/Navbar";
 

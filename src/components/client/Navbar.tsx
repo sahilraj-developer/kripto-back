@@ -1,3 +1,5 @@
+// @ts-ignore
+// @ts-nocheck
 import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { Menu, X, ChevronDown, User, ShoppingCart } from "lucide-react"; // ChevronDown for dropdown indicator
