@@ -1,4 +1,4 @@
-# Kripto Shop – MERN E-commerce App
+# MERN E-commerce App
 
 ## 📦 Tech Stack
 
@@ -16,7 +16,7 @@
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/kripto-shop.git
+git clone https://github.com/sahilraj-developer/kripto-back.git
 cd kripto-shop
 
 
